@@ -1,0 +1,34 @@
+body {
+    background-color: aqua;
+}
+
+header {
+    background-color: chartreuse;
+}
+
+h1 {
+    size: 110px;
+    text-align: center;
+}
+
+h2 {
+    size: 80px;
+    text-align: center;
+}
+
+.gamestable {
+    background-color: bisque;
+    text-align: left;
+}
+
+table {
+    background-color: rgb(51, 118, 85);
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+}
+
+td,
+th {
+    width: 140px;
+}

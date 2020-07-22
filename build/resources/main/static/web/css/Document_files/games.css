@@ -1,0 +1,64 @@
+body {
+    background-image: url(https://images.pexels.com/photos/876345/pexels-photo-876345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: azure;
+}
+
+h1 {
+    size: 110px;
+    text-align: center;
+}
+
+h2 {
+    size: 80px;
+    text-align: center;
+}
+
+.gamestable {
+    text-align: left;
+}
+
+.navbar {
+    background-color: beige;
+    width: 100%;
+}
+
+table {
+    background-image: url('SHOOTING.jpg');
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+td,
+th {
+    width: 140px;
+}
+
+#registration {
+    margin: auto;
+    width: 200px;
+    height: 100px;
+}
+
+.register {
+    text-align: left;
+}
+
+section {
+    color: aliceblue;
+}
+
+button {
+    text-align: center;
+    margin: auto;
+}
+
+.card-body {
+    background-color: transparent;
+    border: transparent;
+}
