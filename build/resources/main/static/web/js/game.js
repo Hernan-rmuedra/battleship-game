@@ -361,7 +361,7 @@ var app = new Vue({
 
 })
 
-var url = "http://localhost:8080/api/game_view/";
+var url = "/api/game_view/";
 var gpId = paramObj(location.search).gp;
 fetch(url + gpId)
     .then(function(resp) {
